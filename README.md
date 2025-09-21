@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🩺 Kidney Stone Detection using Deep Learning
 📌 Project for Neurax Hackathon
 📖 Overview
@@ -114,3 +115,6 @@ Add automated stone size measurement in mm
 
 Developed as part of Neurax Hackathon 🧠💡
 
+=======
+# NeuraX-hackathon_project
+>>>>>>> b4f668c (Initial commit)
